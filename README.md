@@ -1,11 +1,11 @@
 # Chatbot-LSTM
 
-🤖 Emotion Classification Chatbot
+# 🤖 Emotion Classification Chatbot
 Welcome to the Emotion Classification Chatbot project! This chatbot is designed to recognize and classify emotions from text input provided by users. Whether you're feeling joy, anger, sadness, or any other emotion, this chatbot can identify and respond accordingly, making the interaction more empathetic and human-like.
 
 The underlying model is built using state-of-the-art deep learning techniques, specifically Long Short-Term Memory (LSTM), to effectively understand and analyze text data for emotion classification.
 
-🔍 Project Overview
+# 🔍 Project Overview
 
 This chatbot works as follows:
 
@@ -27,7 +27,7 @@ Surprise
 
 Response Generation: Based on the identified emotion, the chatbot responds with a message reflecting the user's emotional state.
 
-🧠 How It Works
+# 🧠 How It Works
 
 Data Preprocessing:
 
@@ -52,12 +52,12 @@ The model is trained using a Cross-Entropy Loss function, optimizing through Ada
 The performance is evaluated on a validation set, and predictions are made on the test set to assess its accuracy.
 
 
-Result:
+# Result:
 
 <img width="501" alt="Ekran Resmi 2025-02-08 15 20 42" src="https://github.com/user-attachments/assets/86aa7fa0-cc0c-42c1-9689-b930629fb110" />
 
 
-🧠 LSTM Model Architecture:
+# 🧠 LSTM Model Architecture:
 
 ![image](https://github.com/user-attachments/assets/f09af479-df2a-4856-9ea1-6fd6d73f903b)
 
